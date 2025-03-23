@@ -9,7 +9,7 @@ export default function Page() {
         initial={{
           backgroundColor: '#f00',
         }}
-        whileHover={{
+        animate={{
           backgroundColor: '#00f',
           scale: [1, 2, 2, 1],
           rotate: [0, 180, 180, 0],
